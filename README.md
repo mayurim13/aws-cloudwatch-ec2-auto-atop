@@ -13,6 +13,7 @@ This project:
 ________________________________________
 🏗️ Architecture
  
+![Architecture](./screenshots/architecture.png)
 ________________________________________
 ⚙️ AWS Services Used
 •	Amazon EC2
