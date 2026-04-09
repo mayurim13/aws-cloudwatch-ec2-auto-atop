@@ -62,7 +62,7 @@ ________________________________________
 6️⃣ Alarm Triggered
 •	Alarm moves to ALARM state
 
-![CloudWatch Alarm](./screenshots/Alarm-In alarm-state.png)
+![CloudWatch Alarm](./screenshots/Alarm-Inalarm-state.png)
  
 ________________________________________
 7️⃣ SNS Notification
@@ -74,7 +74,7 @@ ________________________________________
 8️⃣ Automated Action
 •	EC2 instance is automatically stopped
 
-![EC2 Instance](./screenshots/Instance-Stopped.png)
+![EC2 Instance](./screenshots/Instance-stopped.png)
  
 ________________________________________
 🧪 Testing
